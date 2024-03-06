@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/VgTrTGU.png" alt="F-Security Image" style="max-width: 100%; max-height: 100%;">
+  <img src="https://telegra.ph/file/e5444de7db7f387e835ed.jpg" alt="F-Security Image" style="max-width: 100%; max-height: 100%;">
 </div>
 
 
