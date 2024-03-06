@@ -71,11 +71,11 @@ python F-Security.py
 
 ## [~] Contact Me on :
 
-- w[![Github](https://img.shields.io/badge/Github-Demon-purple?style=for-the-badge&logo=github)](https://github.com/chhaseeb47)
+- [![Github](https://img.shields.io/badge/Github-Follow-purple?style=for-the-badge&logo=github)](https://github.com/chhaseeb47)
 
-- [![Youtube](https://img.shields.io/badge/Youtube-Demon-blue?style=for-the-badge&logo=youtube)](https://youtube.com/@mhmodsofc)
+- [![Youtube](https://img.shields.io/badge/Youtube-Subscribe-blue?style=for-the-badge&logo=youtube)](https://youtube.com/@mhmodsofc)
 
-- [![Whatsapp channel](https://img.shields.io/badge/Whatsapp-Green?style=for-the-badge&logo=whatsapp)]()
+- [![Whatsapp channel](https://img.shields.io/badge/Whatsapp-Channel-black?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Va8SjGU1noyxsYBA2K2e)
 
-- [![Contect](https://img.shields.io/badge/Whatsapp-Green?style=for-the-badge&logo=whatsapp)](https://w.me/92342054847)
+- [![Contect](https://img.shields.io/badge/Whatsapp-Number-black?style=for-the-badge&logo=whatsapp)](https://w.me/923462054847)
 
