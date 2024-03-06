@@ -1,4 +1,4 @@
-<h1 align="center">♆ F-Security ♆</h1>
+<h1 align="center">♆ HASI HACK TOOL ♆</h1>
 <br>
 
 <div align="center">
@@ -59,7 +59,7 @@ pip install random
 pip install pyfiglet
 ```
 ```
-git clone https://github.com/black-demon-dr7/F-Security.git
+git clone https://github.com/chhaseeb47/HASI-TOOLS.git
 ```
 ```
 cd F-Security
@@ -71,13 +71,11 @@ python F-Security.py
 
 ## [~] Contact Me on :
 
-- w[![Github](https://img.shields.io/badge/Github-Demon-purple?style=for-the-badge&logo=github)](https://github.com/black-demon-dr7)
+- w[![Github](https://img.shields.io/badge/Github-Demon-purple?style=for-the-badge&logo=github)](https://github.com/chhaseeb47)
 
-- [![Instgram](https://img.shields.io/badge/Instagram-Demon-green?style=for-the-badge&logo=instagram)](https://instagram.com/elqnas_daymon?igshid=MzNlNGNkZWQ4Mg==)
+- [![Youtube](https://img.shields.io/badge/Youtube-Demon-blue?style=for-the-badge&logo=youtube)](https://youtube.com/@mhmodsofc)
 
-- [![Youtube](https://img.shields.io/badge/Youtube-Demon-blue?style=for-the-badge&logo=youtube)](https://youtube.com/@ELQNAS_DAYMON?si=_9glDyUgFdJ1JDsW)
+- [![Whatsapp channel](https://img.shields.io/badge/Whatsapp-Green?style=for-the-badge&logo=whatsapp)]()
 
-- [![Telegram](https://img.shields.io/badge/Telegram-Demon-orange?style=for-the-badge&logo=telegram)](https://t.me/BLACK_DEMON_VX)
-
-- [![Connect](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/blackd4)
+- [![Contect](https://img.shields.io/badge/Whatsapp-Green?style=for-the-badge&logo=whatsapp)](https://w.me/92342054847)
 
