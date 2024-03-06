@@ -62,10 +62,10 @@ pip install pyfiglet
 git clone https://github.com/chhaseeb47/HASI-TOOLS.git
 ```
 ```
-cd F-Security
+cd HASI-TOOLS
 ```
 ```
-python F-Security.py
+python HASI-TOOLS.py
 ```
 
 
