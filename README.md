@@ -59,13 +59,13 @@ pip install random
 pip install pyfiglet
 ```
 ```
-git clone https://github.com/chhaseeb47/HASI-TOOLS.git
+git clone https://github.com/chhaseeb47/F-Security.git
 ```
 ```
-cd HASI-TOOLS
+cd F-Security
 ```
 ```
-python HASI-TOOLS.py
+python F-Security.py
 ```
 
 
